@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisMascotas</string>
+    <string name="texto_boton">Click!</string>
+    <string name="texto_titulo">Hola mundo</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="star_button">Star</string>
+    <string name="texto_accion">Acción</string>
+    <string name="name">Asunto</string>
+    <string name="phone">123456789</string>
+    <string name="email">Correo electrónico</string>
+    <string name="image_descr">Image profile</string>
+    <string name="titulo_card">Android 7</string>
+    <string name="descripcion_card">Aquí va la descripción.</string>
+</resources>
